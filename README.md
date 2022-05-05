@@ -1,5 +1,7 @@
 # findEats
 
+This project was worked on with 4 other people: Ricky Chen, Alan Lu, Jia Jun Liu, and Mandy Zheng
+
 instructions:
 
 NEED: Python, HTML, CSS, JavaScript
